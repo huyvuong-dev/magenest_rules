@@ -2,7 +2,6 @@
 
 namespace Magenest\Rules\Setup;
 
-use Magenest\Rules\Model\Rules;
 use Magento\Framework\Setup\UpgradeDataInterface;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
